@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Version:a5b307f9
+CACHE:
+/rb/14/cj,nj/dfbe5368/a11e6044.js?bu=DSkuWWltcWVdYaYBqgEumgE
+/rb/G/cj,nj/023b4f7f/e7a82d02.js?bu=CJYEmATTBNUE0QShBJoEnAQ
+/rb/G/cj,nj/c2882045/a7e89a3c.js?bu=HJ0B9gGbAvAB-wH-AZ0CpAKfAqECoAGiAdsB3gHnAYEC5AGMApMClgKYAo4C4gO5ArsCvQKoAsIC
+/rb/G/ortl,cc,nc/5a7a14fd/0d358c42.css?bu=A7UFzwbSBg
+/rms/BingCore.Bundle/cj,nj/e802a635/4a51449d.js?bu=rms+answers+Shared+BingCore%24ClientInstV2%24DuplicateXlsDefaultConfig*BingCore%24ClientInstV2%24SharedLocalStorageConfigDefault*BingCore%24shared*BingCore%24env.override*Empty*BingCore%24event.custom.fix*BingCore%24event.native*BingCore%24dom*BingCore%24cookies_parserThreshold*BingCore%24XHRPrefetch%24rmsajax_xhrprefetch*BingCore%24ClientInstV2%24LogUploadCapFeatureDisabled*BingCore%24ClientInstV2%24ClientInstConfigSeparateOfflineQueue*BingCore%24ClientInstV2%24clientinst_xls*BingCore%24framework*BingCore%24CoreUtilities*BingCore%24ClientInstV2%24LogHelper*HitHighlighting%24HitHighlightingParser*BingCore%24ClientInstV2%24DataSourceLayoutManager
+/rms/BlueBrand/ortl,cc,nc/bd98a50b/fcb335e7.css?bu=rms+answers+BrandBundle_Mobile+thbrand%24CombinedAsset_Windows_Gen1*thbrand%24Colors_Gen1*Colors_AnsSupp*SegoeFontFaces*thbrand%24Type_Gen1*TypeGroupLabelOverrides*thbrand%24Grid_Gen1*empty*empty
+/rms/BlueHeader/cir,ortl,cc,nc/9c0f8482/424a9e57.css?bu=rms+answers+BrandBundle_Mobile+empty*thbrand%24Header_Colors_Gen1*thbrand%24Header_Type*thbrand%24Header_Grid_Gen1*empty*empty
+/rs/5g/C/nj/8fe7be63/8636b4dd.js
+/rs/5g/k/nj/d9799f53/045d3532.js
+/rs/G/30/cj,nj/dcb85067/6f2db999.js
+/rs/G/3r/cj,nj/5c399b27/7ca2a944.js
+/rs/G/40/cj,nj/269f81b6/4bdff26d.js
+/rs/I/1k/cj,nj/8140a6fd/5c50577e.js
+NETWORK:
+*
